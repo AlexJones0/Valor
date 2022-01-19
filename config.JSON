@@ -1,0 +1,19 @@
+{
+    "screen_width": 1920,
+    "screen_height": 1080,
+    "display_mode": "windowed",
+    "window_width": 1280,
+    "window_height": 720,
+    "fps_limit": 60,
+    "font": "nirmalauisemilight",
+    "title_font": "verdana",
+    "transition_speed": 1,
+    "synonym_suggestions_word_depth": 5,
+    "tags_shown_per_row": 4,
+    "levenshtein_search_threshold": 50,
+    "check_synonyms_for_wildcards": true,
+    "background_image": null,
+    "number_of_category_tags": 3,
+    "item_tags_shown_per_row": 3,
+    "scroll_speed": 1
+}
